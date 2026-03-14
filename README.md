@@ -11,7 +11,7 @@ It combines:
 * modular architecture
 * The goal of the project is to create a personal AI operating system style assistant that can be extended with tools, knowledge playbooks, and automation.
 
-Features
+## Features
 * AI Assistant
 * Structured AI agent with a strict JSON output contract
 * Supports multiple model providers
@@ -38,7 +38,6 @@ RottenPoodles AI uses Retrieval Augmented Generation (RAG).
 Knowledge files placed in: _/sys_
 
 are automatically:
-
 * scanned
 * chunked
 * embedded
