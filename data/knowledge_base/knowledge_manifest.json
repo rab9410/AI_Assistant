@@ -1,0 +1,17 @@
+{
+  "sys_ready_manifest.md": "c38af672dec0f22a94ba25e910959376",
+  "00_core\\assistant_core_playbook.md": "30bc18b1cb7f6af77e6d23baea8760ce",
+  "00_core\\formatting_output_playbook.md": "edc124f7b83fc93800f3aa309a7b5e6c",
+  "00_core\\rag_knowledge_playbook.md": "bfba49cb8db558051139c8f7a25f93a9",
+  "00_core\\safety_boundaries_playbook.md": "ac3d9c4d0a31bb46156cfde902567a83",
+  "00_core\\tool_use_playbook.md": "afe0d6fd43a0ab6e10bce4f6d3021e3f",
+  "00_core\\trust_playbook.md": "c239ded2a53b8373a16eac7949a70937",
+  "10_task_playbooks\\coding_playbook.md": "d606829701a31730c85ed3f0045564a3",
+  "10_task_playbooks\\debugging_playbook.md": "ed7d3008538129bd13a5bb2212be4470",
+  "10_task_playbooks\\memory_personalization_playbook.md": "2af66756fc5bb139b584a1c9c9c01c88",
+  "10_task_playbooks\\research_playbook.md": "bc53a57ef2eecf837165b24ec065e03f",
+  "10_task_playbooks\\system_design_playbook.md": "0bf391c02b3a60704c9ec03e1052ab91",
+  "10_task_playbooks\\writing_playbook.md": "3965d2319ff94bbb5139387ef989d4d7",
+  "90_index\\PLAYBOOK_INDEX.md": "86b1e36292e4f6341e9f5ab0d8dfbf31",
+  "90_index\\SYS_FOLDER_SETUP.md": "d50ca2bc0293f5288b88bd4c62fc46f7"
+}

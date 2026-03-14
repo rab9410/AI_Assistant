@@ -1,0 +1,15 @@
+{
+  "EXPERIENCE_LEDGER": [
+    {
+      "timestamp": "Tuesday, March 10, 2026, 02:48 PM (UTC+2)",
+      "issue": "Formatting Error",
+      "context": "no it's not. you're hallucinating",
+      "lesson": "I must wrap all replies in valid JSON even for greetings."
+    },
+    {
+      "issue": "Formatting Error",
+      "context": "hello",
+      "lesson": "Always output JSON blocks."
+    }
+  ]
+}
