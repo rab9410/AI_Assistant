@@ -182,6 +182,6 @@ Planned upgrades:
 MIT License
 
 ## Author
-Robin Berghege
+R.A.B
 
 GitHub: https://github.com/rab9410
